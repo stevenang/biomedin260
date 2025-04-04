@@ -1,3 +1,4 @@
 pydicom
 scikit-image
 matplotlib
+nibabel
